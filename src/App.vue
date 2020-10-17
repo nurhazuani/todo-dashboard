@@ -1,6 +1,9 @@
 <template>
   <div id="app">
-    
+    <head>
+      <link href="https://fonts.googleapis.com/css?family=Baloo+Bhai|Candal|Chewy&display=swap" rel="stylesheet">
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  </head>
     <router-view />
   </div>
 </template>
